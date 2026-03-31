@@ -137,7 +137,7 @@ Si quieres mejorar el proyecto:
 
 ## 📄 Licencia
 
-Este proyecto se entrega con **Licencia MIT**.
+Este proyecto se entrega con [**Licencia MIT**](https://github.com/Aratea10/devops-practice/blob/main/LICENSE).
 
 ---
 
