@@ -1,4 +1,4 @@
-# Práctica DevOps - Despliegue en Servidor
+# 🚀 Práctica DevOps - Despliegue en Servidor
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Consiste en desplegar aplicaciones web en un servidor AWS EC2 con la arquitectur
 
 ---
 
-## 🌐 URL de la aplicación desplegada
+## 🌐 URLs de las aplicaciones desplegadas
 
 | Ejercicio | App | URL |
 | --- | --- | --- |
